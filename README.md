@@ -1,6 +1,6 @@
 ### Hi I'm Kubra 👋
 
-![](https://komarev.com/ghpvc/?username=hkubrakkartaln&color=123456&label=Profile+views)
+![](https://komarev.com/ghpvc/?username=hkubrakkartaln&color=FFA500&label=Profile+views)
 
 
 <!--
