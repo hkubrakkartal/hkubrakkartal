@@ -1,5 +1,8 @@
 ### Hi I'm Kubra 👋
 
+![](https://komarev.com/ghpvc/?username=hkubrakkartaln&color=123456&label=Profile+views)
+
+
 <!--
 **hkubrakkartal/hkubrakkartal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
