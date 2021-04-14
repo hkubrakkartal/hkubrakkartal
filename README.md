@@ -2,8 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=hkubrakkartaln&color=FFA500&label=Profile+views)
 
-<a href="https://www.linkedin.com/in/hatice-kubra-kucukkartal/"><img src="https://img.shields.io/badge/-Linkedin-2867B2?style=flat-quare&labelColor=white&logo=linkedin&logoColor=2867B2&link=link" width="100" height="25px"></a>
-<a href="https://www.Kaggle.com/in/hatice-kubra-kucukkartal/"><img src="https://img.shields.io/badge/-Kaggle-2867B2?style=flat-quare&labelColor=white&logo=linkedin&logoColor=08e8de&link=link" width="100" height="25px"></a>
+[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatice-kubra-kucukkartal/)
+[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat?labelColor=blue?color=blue&logo=kaggle&logoColor=blue)](https://www.kaggle.com/hkubra)
+[![](https://img.shields.io/badge/Email-haticekubra26%40gmail.com-red)](mailto:haticekubra26@gmail.com) 
 
 
 <!--
