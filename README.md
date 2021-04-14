@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=hkubrakkartaln&color=FFA500&label=Profile+views)
 
+<a href="https://www.linkedin.com/in/hatice-kubra-kucukkartal/"><img src="https://img.shields.io/badge/-Linkedin-2867B2?style=flat-quare&labelColor=white&logo=linkedin&logoColor=2867B2&link=link" width="100" height="25px"></a>
+
 
 <!--
 **hkubrakkartal/hkubrakkartal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
