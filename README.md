@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatice-kubra-kucukkartal/)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat?labelColor=blue?color=blue&logo=kaggle&logoColor=blue)](https://www.kaggle.com/hkubra)
 [![](https://img.shields.io/badge/Email-haticekubra26%40gmail.com-red)](mailto:haticekubra26@gmail.com) 
-![](https://komarev.com/ghpvc/?username=hkubrakkartaln&color=FFA500&label=Profile+views)
+<!-- ![](https://komarev.com/ghpvc/?username=hkubrakkartaln&color=FFA500&label=Profile+views) -->
 
 
 <!--
